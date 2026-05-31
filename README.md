@@ -71,14 +71,14 @@
 
 ## Project Workspace Snapshot
 
-| Project                                                                       | Purpose                                                                    | Stack                                     | Live                                                            |
-| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------- |
-| [flat-manager] (https://github.com/hitha-padagala/flat-manager)               | Society/flat management dashboard with auth, residents, payments, expenses | Next.js, TypeScript, Prisma, PostgreSQL   | [▶ Demo](https://github.com/hitha-padagala/flat-manager)        |
-| [flat-manager-mobile] (https://github.com/hitha-padagala/flat-manager-mobile) | Mobile companion app for quick flat-manager workflows                      | Expo, React Native, TypeScript            | [▶ Demo](https://github.com/hitha-padagala/flat-manager-mobile) |
-| [job-intel] (https://github.com/hitha-padagala/job-intel)                     | Job intelligence dashboard with scrape-driven demand insights              | Next.js, TypeScript, Tailwind, Playwright | [▶ Demo](https://github.com/hitha-padagala/job-intel)           |
-| [receipt-vault] (https://github.com/hitha-padagala/receipt-vault)             | Receipt management platform with frontend + FastAPI backend                | Next.js, TypeScript, FastAPI, PostgreSQL  | [▶ Demo](https://github.com/hitha-padagala/receipt-vault)       |
-| [smart-kid] (https://github.com/hitha-padagala/smart-kid)                     | Kid-friendly learning app for English, Maths, and Telugu                   | Next.js, TypeScript, Tailwind             | [▶ Demo](https://github.com/hitha-padagala/smart-kid)           |
-| [travel-guide] (https://github.com/hitha-padagala/travel-guide)               | Curated India travel app with AI itinerary planner                         | Next.js, TypeScript, Supabase, Tailwind   | [▶ Demo](https://github.com/hitha-padagala/travel-guide)        |
+| Project                                                                      | Purpose                                                                    | Stack                                     | Live                                                            |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------- |
+| [flat-manager](https://github.com/hitha-padagala/flat-manager)               | Society/flat management dashboard with auth, residents, payments, expenses | Next.js, TypeScript, Prisma, PostgreSQL   | [▶ Demo](https://github.com/hitha-padagala/flat-manager)        |
+| [flat-manager-mobile](https://github.com/hitha-padagala/flat-manager-mobile) | Mobile companion app for quick flat-manager workflows                      | Expo, React Native, TypeScript            | [▶ Demo](https://github.com/hitha-padagala/flat-manager-mobile) |
+| [job-intel](https://github.com/hitha-padagala/job-intel)                     | Job intelligence dashboard with scrape-driven demand insights              | Next.js, TypeScript, Tailwind, Playwright | [▶ Demo](https://github.com/hitha-padagala/job-intel)           |
+| [receipt-vault](https://github.com/hitha-padagala/receipt-vault)             | Receipt management platform with frontend + FastAPI backend                | Next.js, TypeScript, FastAPI, PostgreSQL  | [▶ Demo](https://github.com/hitha-padagala/receipt-vault)       |
+| [smart-kid](https://github.com/hitha-padagala/smart-kid)                     | Kid-friendly learning app for English, Maths, and Telugu                   | Next.js, TypeScript, Tailwind             | [▶ Demo](https://github.com/hitha-padagala/smart-kid)           |
+| [travel-guide](https://github.com/hitha-padagala/travel-guide)               | Curated India travel app with AI itinerary planner                         | Next.js, TypeScript, Supabase, Tailwind   | [▶ Demo](https://github.com/hitha-padagala/travel-guide)        |
 
 ---
 
