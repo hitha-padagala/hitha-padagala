@@ -70,6 +70,20 @@
 
 ---
 
+## Project Workspace Snapshot
+
+| Project | Purpose | Stack | Status |
+| --- | --- | --- | --- |
+| dev-assist | Internal developer-assistance workspace for experiments and utilities | Markdown, tooling notes | Documented |
+| flat-manager | Society/flat management dashboard with auth, residents, payments, expenses | Next.js, TypeScript, Prisma, PostgreSQL | UI polished |
+| flat-manager-mobile | Mobile companion app for quick flat-manager workflows | Expo, React Native, TypeScript | UI polished |
+| job-intel | Job intelligence dashboard with scrape-driven demand insights | Next.js, TypeScript, Tailwind, Playwright | UI polished |
+| receipt-vault | Receipt management platform with frontend + FastAPI backend | Next.js, TypeScript, FastAPI, PostgreSQL | UI polished |
+| smart-kid | Kid-friendly learning app for English, Maths, and Telugu | Next.js, TypeScript, Tailwind | UI polished |
+| travel-guide | Curated India travel app with AI itinerary planner | Next.js, TypeScript, Supabase, Tailwind | UI polished |
+
+---
+
 ## Experience Snapshot
 
 - Technical Team Lead at iSpace Software Private Limited (March 2017 - Present)
