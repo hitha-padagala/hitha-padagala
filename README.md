@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hitha Padagala</h1>
 
 <p align="center">
-  <b>Full-Stack & Android Developer</b> | Kotlin · React · Next.js · AWS · Python<br/>
+  <b>Full-Stack & Android Developer</b> | Kotlin · KMM · Java · Spring Boot · React · Next.js · AWS · Python<br/>
   15+ years building mobile, web, and cloud applications
 </p>
 
@@ -25,8 +25,13 @@
 <br/>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![KMM](https://img.shields.io/badge/KMM-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=kotlin&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-FF6600?style=flat-square&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -40,11 +45,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-**Android:** Kotlin, Java, Jetpack Compose, MVVM, Hilt/Dagger, Firebase
-**Full-Stack:** React.js, Next.js, React Native, Node.js, Express.js, NestJS, FastAPI, GraphQL
+**Android:** Kotlin, Java, Jetpack Compose, KMM, MVVM, Hilt/Dagger, Firebase
+**Backend:** Java, Spring Boot, Node.js, Express.js, NestJS, FastAPI, GraphQL
+**Full-Stack:** React.js, Next.js, React Native
 **Cloud:** AWS (EC2, Lambda, S3, CloudFront, API Gateway, DynamoDB, RDS, SNS/SQS)
 **Databases:** PostgreSQL, MySQL, MongoDB, SQLite, DocumentDB
 **Tools:** Git, Datadog, LaunchDarkly, CI/CD, Appium, Playwright
+**KMM Stack:** Ktor, Koin, kotlinx.serialization, Compose Multiplatform
 
 </details>
 
@@ -80,6 +87,7 @@ B.Tech in CSE, MLR Institute of Technology, JNTU
 
 | Project | Description | Stack | Demo |
 |---------|------------|-------|------|
+| [kmm-android-project](https://github.com/hitha-padagala/kmm-android-project) | KMM Android app with Ktor, Koin, Compose Navigation, file upload | Kotlin, KMM, Compose, Ktor, Koin | [Repo](https://github.com/hitha-padagala/kmm-android-project) |
 | [smart-kid](https://github.com/hitha-padagala/smart-kid) | Kid-friendly learning app (English, Maths, Telugu) | Next.js, TypeScript, Tailwind | [Live](https://smart-kid-hitha.vercel.app/) |
 | [travel-guide](https://github.com/hitha-padagala/travel-guide) | India travel app with AI itinerary planner | Next.js, TypeScript, Supabase | [Live](https://travel-guide-five-sandy.vercel.app/) |
 | [flat-manager](https://github.com/hitha-padagala/flat-manager) | Society management dashboard with auth & payments | Next.js, TypeScript, Prisma | [Live](https://flat-manager-azure.vercel.app/) |
