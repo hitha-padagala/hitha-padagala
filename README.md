@@ -119,25 +119,8 @@ B.Tech in CSE, MLR Institute of Technology, JNTU
 </p>
 
 <p align="center">
-  <i>Capture screenshots from the emulator and save them to the <code>screenshots/</code> folder, then push.</i>
+  <i>Run the app on an emulator, capture screenshots, and save them to the <code>screenshots/</code> folder.</i>
 </p>
-
-<details>
-<summary><b>How to add screenshots</b></summary>
-
-1. Run the app on an Android emulator
-2. Use the emulator's screenshot button or `adb shell screencap`
-3. Save as:
-   - `splash.png` — splash screen
-   - `login.png` — login form
-   - `user-list.png` — user list with search + favorites
-   - `user-detail.png` — user detail with address/company
-   - `upload.png` — file upload screen
-   - `drawer.png` — sidebar drawer open
-   - `dark-mode.png` — app in dark mode
-4. `git add screenshots/ && git commit -m "Add app screenshots" && git push`
-
-</details>
 
 ---
 
