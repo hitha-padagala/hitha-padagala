@@ -112,11 +112,6 @@ B.Tech in CSE, MLR Institute of Technology, JNTU
   <img src="screenshots/user-detail.png" width="180" alt="User Detail" title="User Detail" />
 </p>
 
-<p align="center">
-  <img src="screenshots/upload.png" width="180" alt="Upload" title="File Upload" />&nbsp;
-  <img src="screenshots/drawer.png" width="180" alt="Drawer" title="Navigation Drawer" />&nbsp;
-  <img src="screenshots/dark-mode.png" width="180" alt="Dark Mode" title="Dark Mode" />
-</p>
 
 <p align="center">
   <i>Run the app on an emulator, capture screenshots, and save them to the <code>screenshots/</code> folder.</i>
