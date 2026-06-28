@@ -99,15 +99,45 @@ B.Tech in CSE, MLR Institute of Technology, JNTU
 
 ## App Previews
 
+### KMM Android App
+
 <p align="center">
-  <i>Screenshots/GIFs coming soon — add a short demo GIF for each project here</i>
+  <b>kmm-android-project</b> — Kotlin Multiplatform + Compose + Ktor + Koin
 </p>
 
-<!--
-  Example: 
-  <img src="path/to/smart-kid-demo.gif" width="400" />&nbsp;
-  <img src="path/to/travel-guide-demo.gif" width="400" />
--->
+<p align="center">
+  <img src="screenshots/splash.png" width="180" alt="Splash" title="Splash" />&nbsp;
+  <img src="screenshots/login.png" width="180" alt="Login" title="Login" />&nbsp;
+  <img src="screenshots/user-list.png" width="180" alt="User List" title="User List" />&nbsp;
+  <img src="screenshots/user-detail.png" width="180" alt="User Detail" title="User Detail" />
+</p>
+
+<p align="center">
+  <img src="screenshots/upload.png" width="180" alt="Upload" title="File Upload" />&nbsp;
+  <img src="screenshots/drawer.png" width="180" alt="Drawer" title="Navigation Drawer" />&nbsp;
+  <img src="screenshots/dark-mode.png" width="180" alt="Dark Mode" title="Dark Mode" />
+</p>
+
+<p align="center">
+  <i>Capture screenshots from the emulator and save them to the <code>screenshots/</code> folder, then push.</i>
+</p>
+
+<details>
+<summary><b>How to add screenshots</b></summary>
+
+1. Run the app on an Android emulator
+2. Use the emulator's screenshot button or `adb shell screencap`
+3. Save as:
+   - `splash.png` — splash screen
+   - `login.png` — login form
+   - `user-list.png` — user list with search + favorites
+   - `user-detail.png` — user detail with address/company
+   - `upload.png` — file upload screen
+   - `drawer.png` — sidebar drawer open
+   - `dark-mode.png` — app in dark mode
+4. `git add screenshots/ && git commit -m "Add app screenshots" && git push`
+
+</details>
 
 ---
 
