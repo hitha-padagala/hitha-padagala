@@ -99,26 +99,6 @@ B.Tech in CSE, MLR Institute of Technology, JNTU
 
 ## App Previews
 
-### KMM Android App
-
-<p align="center">
-  <b>kmm-android-project</b> — Kotlin Multiplatform + Compose + Ktor + Koin
-</p>
-
-<p align="center">
-  <img src="screenshots/splash.png" width="180" alt="Splash" title="Splash" />&nbsp;
-  <img src="screenshots/login.png" width="180" alt="Login" title="Login" />&nbsp;
-  <img src="screenshots/user-list.png" width="180" alt="User List" title="User List" />&nbsp;
-  <img src="screenshots/user-detail.png" width="180" alt="User Detail" title="User Detail" />
-</p>
-
-
-<p align="center">
-  <i>Run the app on an emulator, capture screenshots, and save them to the <code>screenshots/</code> folder.</i>
-</p>
-
----
-
 <p align="center">
   <a href="mailto:padagalahitha@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/hitha-padagala/">LinkedIn</a> ·
